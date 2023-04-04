@@ -10,7 +10,8 @@ configure cgi-bin in Apache or similar
 
 # Usage
 
-http://127.0.0.1/cgi-bin/rcon.py?command - where command can be:
+http://127.0.0.1/cgi-bin/rcon.py?command - where command is:
+
 `e dance`
 
 `e c`
