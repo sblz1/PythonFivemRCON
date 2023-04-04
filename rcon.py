@@ -1,4 +1,4 @@
-#!"C:\Users\seb\AppData\Local\Programs\Python\Python312\python.exe"
+#!"C:\Users\bla\AppData\Local\Programs\Python\Python312\python.exe"
 # to be executed in a cgi-bin fashion
 # e.g http://127.0.0.1/cgi-bin/rcon.py?resmon true
 # e.g http://127.0.0.1/cgi-bin/rcon.py?resmon false
